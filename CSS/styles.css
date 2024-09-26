@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1, h2 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
